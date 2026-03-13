@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+יוצר תוכן שיווקי דיגיטלי המתמחה בסרטוני וידאו קולנועיים לעסקים. הפקות וידאו פרמיום שמייצרות תוצאות מדידות ומבדלות את המותג שלך מהמתחרים.
+
+### שירותים
+https://example.com/services
+שירותי עריכת וידאו והפקת תוכן שיווקי דיגיטלי לעסקים ונותני שירותים. מסרטוני תדמית ועד קמפיינים ממירים - פתרונות קריאייטיב מלאים שמניעים צמיחה.
+
+### עבודות
+https://example.com/work
+צפו בעבודות וידאו שיווקי שיצרתי לעסקים ונותני שירותים. פרויקטים קולנועיים שמשלבים אסתטיקה פרמיום עם תוצאות שיווקיות מוכחות ומדידות.
+
+### צור קשר
+https://example.com/contact
+מוכנים להעלות את השיווק הדיגיטלי שלכם לרמה הבאה? צרו קשר עכשיו לייעוץ חינם והצעת מחיר מותאמת אישית. בואו נפיק תוכן וידאו שמייצר תוצאות אמיתיות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
